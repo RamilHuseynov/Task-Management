@@ -1,0 +1,13 @@
+{
+    "private": true,
+    "scripts": {
+
+    },
+    "devDependencies": {
+        "@popperjs/core": "^2.11.6",
+        "axios": "^1.1.2",
+        "bootstrap": "^5.2.3",
+        "sass": "^1.56.1",
+        "vue": "^3.2.37"
+    }
+}
